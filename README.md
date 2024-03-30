@@ -2,7 +2,7 @@
 Ecommerce Dashboard using Power BI
 # E-Commerce Sales Dashboard
 
-### Dashboard Link : https://app.powerbi.com/links/cD4CxKtg7j?ctid=23772a0d-1985-4134-98bb-31e340786ca1&pbi_source=linkShare
+### Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=bb96ade6-6fc0-448b-a0b1-501e7ff526d4&autoAuth=true&ctid=23772a0d-1985-4134-98bb-31e340786ca1
 
 ## Problem Statement
 
